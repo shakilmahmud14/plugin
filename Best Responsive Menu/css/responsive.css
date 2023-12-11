@@ -1,0 +1,173 @@
+/* =============================================================================
+           Small Screen - Tablate/Others
+ ============================================================================= */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+}
+
+
+
+/* =============================================================================
+            Xtra Small Screen - Tablate
+ ============================================================================= */
+@media screen and (min-width: 480px) and (max-width: 767px) {	
+
+
+
+
+/*--------- Responsive Menu Part Start ------------*/
+nav .logo { padding-top: 8px }
+nav .menu-toggle { display: inline-block }
+nav .menu { display: none; clear: both }
+nav .menu > ul { float: none }
+nav .menu li { width: 100%; border: 0 }
+nav .menu li:last-child { margin: 0 0 15px 0 }
+nav .menu li a,
+nav .open-submenu {
+	display: block;
+	background: #62b38d;
+	padding: 10px;
+	margin: 2px 0 0 0
+}
+nav .menu ul ul {
+	position: static;
+	background: transparent;
+	display:none
+}
+nav .menu ul ul a { background: transparent }
+nav .menu ul ul a:hover { background: #FFBB22 }
+
+/*--------- Responsive Menu Part end ------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+/* =============================================================================
+            Xtra Small Screen - Mobile Phone
+ ============================================================================= */
+@media screen and (max-width: 479px) {
+
+
+
+
+/*--------- Responsive Menu Part Start ------------*/
+nav .logo { padding-top: 8px }
+nav .menu-toggle { display: inline-block }
+nav .menu { display: none; clear: both }
+nav .menu > ul { float: none }
+nav .menu li { width: 100%; border: 0 }
+nav .menu li:last-child { margin: 0 0 15px 0 }
+nav .menu li a,
+nav .open-submenu {
+	display: block;
+	background: #62b38d;
+	padding: 10px;
+	margin: 2px 0 0 0
+}
+nav .menu ul ul {
+	position: static;
+	background: transparent;
+	display:none
+}
+nav .menu ul ul a { background: transparent }
+nav .menu ul ul a:hover { background: #FFBB22 }
+
+/*--------- Responsive Menu Part end ------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
